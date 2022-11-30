@@ -1,7 +1,7 @@
 # Distribution
 repo contains files to share with the community
 This binding has no further development and is not supported anymore!
-It is now part of the official Binding https://next.openhab.org/addons/bindings/fineoffsetweatherstation/
+It is now part of the official binding https://next.openhab.org/addons/bindings/fineoffsetweatherstation/
 starting with Release 3.4.
 
 ## org.openhab.binding.ws980wifi-3.3.0-SNAPSHOT.jar 
